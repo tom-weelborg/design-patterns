@@ -1,4 +1,4 @@
-package org.design_patterns.creational.singleton;
+package org.design_patterns.creational.singleton.classes;
 
 import java.util.HashMap;
 import java.util.List;
